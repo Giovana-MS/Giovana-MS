@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Giovana-MS&show_icons=true&theme=vision-friendly-dark" alt="Status da Giovana"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-MS&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais ultilizadas"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Giovana-MS&show_icons=true&theme=highcontrast" alt="Status da Giovana"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-MS&layout=compact&theme=highcontrast" alt="Linguagens mais ultilizadas"/>
 </p>
 
 <br><br>
